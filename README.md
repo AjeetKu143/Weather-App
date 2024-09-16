@@ -1,4 +1,5 @@
 # Weather App
+[![Demo](https://img.shields.io/badge/Demo-Weather%20App-blue)](https://ajeetku143.github.io/Weather-App/)
 
 A basic weather application that allows users to search for the current weather of any city. The app fetches weather data using the OpenWeatherMap API and displays key information such as temperature, weather description, humidity, wind speed, and the current date and time.
 
@@ -18,8 +19,6 @@ A basic weather application that allows users to search for the current weather 
 - **OpenWeatherMap API**: Used to fetch real-time weather information.
 
 ## Scrrenshot
-
-[![Demo](https://img.shields.io/badge/Demo-Weather%20App-blue)](https://ajeetku143.github.io/Weather-App/)
 
 
 ![Weather App Screenshot](Img1.png)
