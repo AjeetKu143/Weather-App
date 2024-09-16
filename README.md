@@ -17,7 +17,7 @@ A basic weather application that allows users to search for the current weather 
 - **JavaScript**: Functionality to fetch and display weather data using the OpenWeatherMap API.
 - **OpenWeatherMap API**: Used to fetch real-time weather information.
 
-## Scrrenshot & Demo
+## Scrrenshot
 
 [![Demo](https://img.shields.io/badge/Demo-Weather%20App-blue)](https://ajeetku143.github.io/Weather-App/)
 
