@@ -35,5 +35,5 @@ You will need an API key from OpenWeatherMap to use this application. If you don
 
 1. _Clone the repository_:
    ```bash
-   git clone [https://github.com/AjeetKu143/Weather-App.git]
+   git clone https://github.com/AjeetKu143/Weather-App.git
    ```
